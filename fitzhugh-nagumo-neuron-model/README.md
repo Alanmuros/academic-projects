@@ -41,8 +41,8 @@ For the classical parameters $a=0.7$, $b=0.8$, $\tau=12.5$:
 
 | File | Description |
 |---|---|
-| [`fhn_report.m`](fhn_report.pdf) | Full report (Catalan) |
-| [`fhn_simulation.m`](fhn_simulation.pdf) | MATLAB code that generates all the figures |
+| [`fhn_report.m`](FHN_Report.pdf) | Full report (Catalan) |
+| [`fhn_simulation.m`](FHN_Simulation.pdf) | MATLAB code that generates all the figures |
 
 ## How to run
 
