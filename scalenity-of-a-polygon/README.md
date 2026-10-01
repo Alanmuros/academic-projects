@@ -45,6 +45,6 @@ Extension to polygons with more sides and to three-dimensional figures, and the 
 
 | File | Description |
 |---|---|
-| [`scalenity-report.pdf`](scalenity-report.pdf) | Full report, ~50 pages (Catalan, with English abstract) |
+| [`scalenity-report.pdf`](Scalenity_Report.pdf) | Full report, ~50 pages (Catalan, with English abstract) |
 
-Interactive GeoGebra applet: [open it here](https://www.geogebra.org/YOUR-APPLET-LINK)
+Interactive GeoGebra applet: [open it here](https://www.geogebra.org/m/ps2647gg)
