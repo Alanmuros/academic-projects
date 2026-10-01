@@ -41,8 +41,8 @@ For the classical parameters $a=0.7$, $b=0.8$, $\tau=12.5$:
 
 | File | Description |
 |---|---|
-| [`fitzhugh-nagumo-neuron-model/Estudi dinàmic del Model FitzHugh-Nagumo.pdf`](fitzhugh-nagumo-neuron-model/Estudi dinàmic del Model FitzHugh-Nagumo.pdf) | Full report (Catalan) |
-| [`fhn_simulation.m`](fhn_simulation.m) (fitzhugh-nagumo-neuron-model/Estudi-dinàmic-del-Model-FitzHugh-Nagumo-(Annex).pdf) | MATLAB code that generates all the figures |
+| [`fhn_report.m`](fhn_report.pdf) | Full report (Catalan) |
+| [`fhn_simulation.m`](fhn_simulation.pdf) | MATLAB code that generates all the figures |
 
 ## How to run
 
